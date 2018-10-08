@@ -6,7 +6,6 @@ public class Calculadora {
 	
 	public Calculadora(){
 		memoria = 0;
-		memoria = 0;
 	}
 	
 	public int sumar(int a, int b){
